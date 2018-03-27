@@ -78,7 +78,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("console.log(`I'm a silly antry point`);\n\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("console.log(`I'm a silly antry point`);\r\n\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ })
 

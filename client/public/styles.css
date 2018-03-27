@@ -1,5 +1,26 @@
-.body {
-    background: #4b6cb7;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #182848, #4b6cb7);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #182848, #4b6cb7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */   
+bg, html {
+    height: 100%;
+    margin: 0;
 }
+
+
+
+.bg {
+    /* The image used */
+    background-image: url("./assets/backgroundStatic.png");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: blue; */
+}
+
+.footer
+ {    
+     background-color: black;
+
+ }
